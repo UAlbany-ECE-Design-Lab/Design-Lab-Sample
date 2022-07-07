@@ -4,7 +4,7 @@ Include a very brief description (a couple sentences) of your project here. We w
 # Repository Contents
 Provide a list of all the contents in this repository.  Make it easy for someone to understand what is contained here by briefly describe the contents for each folder/item.  
 - **REPORT:**  All repositories must include a PDF copy of the final report. 
-- **VIDEO:**  All repositories must include a copy of your final video.  This can be a link to YouTube (if the file is large >100MB) or copy of the video.
+- **FINAL PRESENTATION:**  Copy of your final presentation slides.
 - **SOURCE CODE:**  All source code related to the project in a very well-organized fashion. 
 - **SIMULATIONS:**  Include any SPICE, Simulink, or other simulations that will be useful for a future team.  
 - **ANY DELIVERABLES:** Include anything that is relevant and helpful to either the stakeholder or next year's team.
