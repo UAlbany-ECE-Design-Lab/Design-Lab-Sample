@@ -1,0 +1,3 @@
+# Meeting Notes
+Include your meeting notes here.  
+Include key decisions, tasks, areas of responsibilities, etc...
